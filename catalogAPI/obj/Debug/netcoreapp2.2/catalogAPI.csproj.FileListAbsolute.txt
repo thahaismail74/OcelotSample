@@ -1,0 +1,14 @@
+C:\Users\TJMIsmail\APIGatewayExample\catalogAPI\bin\Debug\netcoreapp2.2\catalogAPI.deps.json
+C:\Users\TJMIsmail\APIGatewayExample\catalogAPI\bin\Debug\netcoreapp2.2\catalogAPI.runtimeconfig.json
+C:\Users\TJMIsmail\APIGatewayExample\catalogAPI\bin\Debug\netcoreapp2.2\catalogAPI.runtimeconfig.dev.json
+C:\Users\TJMIsmail\APIGatewayExample\catalogAPI\bin\Debug\netcoreapp2.2\catalogAPI.dll
+C:\Users\TJMIsmail\APIGatewayExample\catalogAPI\bin\Debug\netcoreapp2.2\catalogAPI.pdb
+C:\Users\TJMIsmail\APIGatewayExample\catalogAPI\obj\Debug\netcoreapp2.2\catalogAPI.csprojAssemblyReference.cache
+C:\Users\TJMIsmail\APIGatewayExample\catalogAPI\obj\Debug\netcoreapp2.2\catalogAPI.csproj.CoreCompileInputs.cache
+C:\Users\TJMIsmail\APIGatewayExample\catalogAPI\obj\Debug\netcoreapp2.2\catalogAPI.RazorAssemblyInfo.cache
+C:\Users\TJMIsmail\APIGatewayExample\catalogAPI\obj\Debug\netcoreapp2.2\catalogAPI.RazorAssemblyInfo.cs
+C:\Users\TJMIsmail\APIGatewayExample\catalogAPI\obj\Debug\netcoreapp2.2\catalogAPI.AssemblyInfoInputs.cache
+C:\Users\TJMIsmail\APIGatewayExample\catalogAPI\obj\Debug\netcoreapp2.2\catalogAPI.AssemblyInfo.cs
+C:\Users\TJMIsmail\APIGatewayExample\catalogAPI\obj\Debug\netcoreapp2.2\catalogAPI.RazorTargetAssemblyInfo.cache
+C:\Users\TJMIsmail\APIGatewayExample\catalogAPI\obj\Debug\netcoreapp2.2\catalogAPI.dll
+C:\Users\TJMIsmail\APIGatewayExample\catalogAPI\obj\Debug\netcoreapp2.2\catalogAPI.pdb

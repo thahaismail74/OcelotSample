@@ -1,0 +1,14 @@
+C:\Users\TJMIsmail\APIGatewayExample\orderAPI\bin\Debug\netcoreapp2.2\orderAPI.deps.json
+C:\Users\TJMIsmail\APIGatewayExample\orderAPI\bin\Debug\netcoreapp2.2\orderAPI.runtimeconfig.json
+C:\Users\TJMIsmail\APIGatewayExample\orderAPI\bin\Debug\netcoreapp2.2\orderAPI.runtimeconfig.dev.json
+C:\Users\TJMIsmail\APIGatewayExample\orderAPI\bin\Debug\netcoreapp2.2\orderAPI.dll
+C:\Users\TJMIsmail\APIGatewayExample\orderAPI\bin\Debug\netcoreapp2.2\orderAPI.pdb
+C:\Users\TJMIsmail\APIGatewayExample\orderAPI\obj\Debug\netcoreapp2.2\orderAPI.csprojAssemblyReference.cache
+C:\Users\TJMIsmail\APIGatewayExample\orderAPI\obj\Debug\netcoreapp2.2\orderAPI.csproj.CoreCompileInputs.cache
+C:\Users\TJMIsmail\APIGatewayExample\orderAPI\obj\Debug\netcoreapp2.2\orderAPI.RazorAssemblyInfo.cache
+C:\Users\TJMIsmail\APIGatewayExample\orderAPI\obj\Debug\netcoreapp2.2\orderAPI.RazorAssemblyInfo.cs
+C:\Users\TJMIsmail\APIGatewayExample\orderAPI\obj\Debug\netcoreapp2.2\orderAPI.AssemblyInfoInputs.cache
+C:\Users\TJMIsmail\APIGatewayExample\orderAPI\obj\Debug\netcoreapp2.2\orderAPI.AssemblyInfo.cs
+C:\Users\TJMIsmail\APIGatewayExample\orderAPI\obj\Debug\netcoreapp2.2\orderAPI.RazorTargetAssemblyInfo.cache
+C:\Users\TJMIsmail\APIGatewayExample\orderAPI\obj\Debug\netcoreapp2.2\orderAPI.dll
+C:\Users\TJMIsmail\APIGatewayExample\orderAPI\obj\Debug\netcoreapp2.2\orderAPI.pdb
