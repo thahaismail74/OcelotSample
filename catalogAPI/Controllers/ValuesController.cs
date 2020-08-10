@@ -14,7 +14,7 @@ namespace catalogAPI.Controllers
         [HttpGet , Route("")]
         public ActionResult<IEnumerable<string>> Get()
         {
-            return new string[] { "usd", "inr", "Jpy" };
+            return new string[] { "usd", "inr", "Jpy","Euro" };
         }
 
         
